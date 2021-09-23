@@ -1,11 +1,19 @@
 body {
-    background-color: red;
-    color: blue;
+    background-color: rgb(0, 0, 0);
+    color: rgb(237, 237, 245);
     font-size: 25px;
 }
 h1 {
-    color: green
+    color: rgb(246, 255, 246)
 }
-.main-header{
+.white-font {
     color: white;
+}
+.head {
+    text-align: center;
+
+}
+
+.subhead {
+    text-align: center;
 }

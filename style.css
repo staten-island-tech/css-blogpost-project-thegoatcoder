@@ -11,12 +11,28 @@ h1 {
 }
 .head {
     text-align: center;
-
-}
+    background-color: coral;
+    }
 
 .subhead {
     text-align: center;
+    background-color: coral;
+    margin-bottom: 100px;
 }
 #HANS {
     text-align: center;
+    margin-bottom: 200px;
 }
+body {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#fireproof {
+    text-align: center;
+    margin-bottom: 200px;
+
+}
+
+#Halo {
+    text-align: center;
+    margin-bottom: 200px;
